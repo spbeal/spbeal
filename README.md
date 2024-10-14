@@ -3,12 +3,12 @@
 ## Learning
 - C# with Unity
 - ReactNative with Expo for Android development
-- SQLite
+- SQLite & MySQL
 
 ## Experience
 - C++, C
-- ReactJS, Flask
 - Python (Have tried libraries such as: Pandas, Matplotlib, Pytorch, TensorFlow)
+- ReactJS, Flask
 - JavaScript/HTML/CSS
 - Git
 - Unix
