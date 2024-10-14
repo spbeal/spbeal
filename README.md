@@ -1,16 +1,14 @@
+# Samuel Beal
+> Computer Science student at the University of Idaho. 
+## Learning
+- C# with Unity
+- ReactNative with Expo for Android development
+- SQLite
 
-
-<!--
-**spbeal/spbeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+- C++, C
+- ReactJS, Flask
+- Python (Have tried libraries such as: Pandas, Matplotlib, Pytorch, TensorFlow)
+- JavaScript/HTML/CSS
+- Git
+- Unix
