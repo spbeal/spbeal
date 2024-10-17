@@ -12,3 +12,5 @@
 - JavaScript/HTML/CSS
 - Git
 - Unix
+#
+![alt text](https://github.com/spbeal/spbeal/blob/af0732f610a62929ba6929e64cf7b46a09455207/photo_of_me.JPG)
