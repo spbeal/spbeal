@@ -3,7 +3,7 @@
 ## Learning
 - C# with Unity
 - ReactNative with Expo for Android development
-- SQLite & MySQL
+- Express with SQLite & MySQL
 
 ## Experience
 - C++, C 
