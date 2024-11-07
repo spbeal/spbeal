@@ -15,5 +15,5 @@
 - Git
 - Unix
 
-| <a href="https://github.com/spbeal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=spbeal&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="spbeal's github stats" /></a> | <a href="https://github.com/spbeal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spbeal&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/spbeal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=spbeal&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="spbeal's github stats" /></a> | <a href="https://github.com/spbeal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spbeal&layout=compact&theme=buefy&exclude_repo=spotify-flask,reactjs&hide_border=true" /></a> |
 | ------------- | ------------- |
