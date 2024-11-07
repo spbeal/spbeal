@@ -4,6 +4,8 @@
 - C# with Unity
 - ReactNative with Expo for Android development
 - Express with SQLite & MySQL
+- AWS with MySQL
+- Github Actions and Workflows
 
 ## Experience
 - C++, C 
