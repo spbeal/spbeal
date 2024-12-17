@@ -8,7 +8,7 @@
 - C# (Unity)
 - JavaScript/TypeScript(Express, React, Expo)
 - HTML/CSS (Tailwind, Bootstrap)
-- Python (Flask, Pandas, Matplotlib, Pytorch, TensorFlow)
+- Python (Flask, Pandas, Pytorch, TensorFlow)
 - MySQL (AWS, XAMPP)
 - Git, Github Workflows
 - Unix
