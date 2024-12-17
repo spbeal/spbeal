@@ -13,4 +13,3 @@
 - Git, Github Workflows
 - Unix
   
-<a href="https://github.com/spbeal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=spbeal&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="spbeal's github stats" /></a> 
