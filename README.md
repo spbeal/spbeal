@@ -1,7 +1,9 @@
 # Samuel Beal
 > Computer Science student at the University of Idaho.
 ## Learning
-- 
+- Python (Biological Evolution)
+- Unreal Engine (Blueprint, etc..)
+- C++, Lex, Yacc (Compiler Design)
 
 ## Experience
 - C++, C (raylib)
