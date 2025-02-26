@@ -1,5 +1,7 @@
 # Samuel Beal
-> Computer Science student at the University of Idaho.
+> Computer Science student at the University of Idaho. <br>
+>https://sambeal.dev/ <br>
+>https://surgev.store/
 ## Learning
 - Python (Biological Evolution)
 - Unreal Engine (Blueprint, etc..)
