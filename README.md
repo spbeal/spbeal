@@ -10,8 +10,8 @@
 ## Experience
 - C++, C (raylib)
 - C# (Unity)
-- JavaScript/TypeScript(Express, React, Expo)
-- HTML/CSS (Tailwind, Bootstrap)
+- JavaScript/TypeScript(Express, React, Next, Node, Expo)
+- HTML/CSS (Tailwind, Bootstrap, MUI, Open-source libraries)
 - Python (Flask, Pandas, Matplotlib, Pytorch, TensorFlow)
 - MySQL (AWS, XAMPP)
 - Git, Github Workflows
