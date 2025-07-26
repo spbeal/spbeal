@@ -1,5 +1,5 @@
 # Samuel Beal
-> Computer Science student at the University of Idaho. <br> Software Engineer Intern @ SEL <br>
+> Computer Science student at the University of Idaho. <br> Associate Software Engineer @ SEL <br>
 > https://sambeal.dev/ <br>
 > https://surgev.store/
 ## Learning
