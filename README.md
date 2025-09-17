@@ -4,16 +4,17 @@
 > https://surgev.store/
 ## Learning
 - Unreal Engine (Blueprint, etc..)
+- ML & Deep Learning
 
 ## Experience
-- C++, C (raylib, Tiny C compiler w/ Lex & Yacc)
-- Golang (SEL)
-- Python (SEL, DNA Analysis)
-- C# (Unity)
-- JavaScript/TypeScript(Express, React, Next, Node, Expo)
+- JavaScript/TypeScript(Express, React, Next.js, Node.js, Expo, Vite, Vue.js)
 - HTML/CSS (Tailwind, Bootstrap, MUI, Open-source libraries)
-- Python (SEL, DNA Analysis Algorithms, Flask, Pandas, Matplotlib, Pytorch, TensorFlow)
-- MySQL (AWS, XAMPP)
+- PostgreSQL, MySQL(AWS, XAMPP)
+- Golang (SEL)
+- PureScript (SEL)
+- C++, C (raylib, Tiny C compiler w/ Lex & Yacc)
+- Python (SEL, DNA Analysis Algorithms, Flask, NumPy, Pandas, Matplotlib, Pytorch, TensorFlow)
+- C# (Unity)
 - Git, Github Workflows
 - Unix
   
