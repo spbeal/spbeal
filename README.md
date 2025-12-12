@@ -2,9 +2,6 @@
 >  Associate Software Engineer @ SEL <br> University of Idaho: B.S.C.S and AI/ML certificate <br>
 > https://sambeal.dev/ <br>
 > https://surgev.store/
-## Learning
-- Unreal Engine (Blueprint, etc..)
-- ML & Deep Learning
 
 ## Experience
 - JavaScript/TypeScript(Express, React, Next.js, Node.js, Expo, Vite, Vue.js)
@@ -17,4 +14,6 @@
 - C# (Unity)
 - Git, Github Workflows
 - Unix
+- ML & Deep Learning
+- Unreal Engine (Blueprint, etc..)
   
