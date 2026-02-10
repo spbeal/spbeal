@@ -6,13 +6,13 @@
 ## Experience
 - JavaScript/TypeScript(Express, React, Next.js, Node.js, Expo, Vite, Vue.js)
 - HTML/CSS (Tailwind, Bootstrap, MUI, Open-source libraries)
-- PostgreSQL, MySQL(AWS, XAMPP)
+- PostgreSQL, Supabase, MySQL(AWS, XAMPP)
 - Golang (SEL)
 - PureScript (SEL)
 - C++, C (raylib, Tiny C compiler w/ Lex & Yacc)
 - Python (SEL, DNA Analysis Algorithms, Flask, NumPy, Pandas, Matplotlib, Pytorch, TensorFlow)
 - C# (Unity)
-- Git, Github Workflows
+- Git, Github Workflows, Jenkins
 - Unix
 - ML & Deep Learning
 - Unreal Engine (Blueprint, etc..)
