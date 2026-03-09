@@ -2,7 +2,7 @@
 >  Associate Software Engineer @ SEL <br> University of Idaho: B.S.C.S and AI/ML certificate <br>
 > https://sambeal.dev/ <br>
 > https://newworld.trading <br>
-> https://surgev.store/ 
+> https://surgev-spbeals-projects.vercel.app/
 
 ## Experience
 - JavaScript/TypeScript(Express, React, Next.js, Node.js, Expo, Vite, Vue.js)
