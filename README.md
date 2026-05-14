@@ -5,7 +5,7 @@
 > https://surgev-spbeals-projects.vercel.app/
 
 ## Experience
-- JavaScript/TypeScript(Express, React, Next.js, Node.js, Expo, Vite, Vue.js)
+- TypeScript/JavaScript(Express, React, Next.js, Node.js, Expo, Vite, Vue.js)
 - HTML/CSS (Tailwind, Bootstrap, MUI, Open-source libraries)
 - PostgreSQL, Supabase, MySQL(AWS, XAMPP)
 - Golang (SEL)
